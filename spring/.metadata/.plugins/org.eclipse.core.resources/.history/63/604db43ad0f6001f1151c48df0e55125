@@ -1,0 +1,13 @@
+package com.sharma.config;
+
+import com.sharma.vehicle.Car;
+import com.sharma.vehicle.Vehicle;
+
+@org.springframework.context.annotation.Configuration
+public class Configuration {
+	
+	public Vehicle carr() {
+		Car obj = new Car();
+		return obj;
+	}
+}

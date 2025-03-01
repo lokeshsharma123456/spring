@@ -1,0 +1,23 @@
+package com.sharma.vehicle;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
+
+public class Car implements Vehicle {
+
+	@Override
+	public int getMrp() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	@Autowired
+	@Qualifier("festivalDiscountImpl")
+	DiscountService discountService;
+	
+	@Override
+	public String getDiscount() {
+		// TODO Auto-generated method stub
+		return this.discountService.getDiscount();
+	}
+
+}

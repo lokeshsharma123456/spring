@@ -1,0 +1,10 @@
+package Vehicle;
+
+public interface Vehicle {
+	
+	public String getSpeed();
+	
+	public String getBrand();
+	
+	public String getMrp();
+}

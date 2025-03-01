@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=learnSpring/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sharma.vehicles{DiscountService.java[DiscountService" modifiers="513" timestamp="1736456484056"/>
+    <typeInfo handle="=injectingLiterals/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;Vehicle{Vehicle.java[Vehicle" modifiers="513" timestamp="1740771154569"/>
+    <typeInfo handle="=component/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sharma.component.vehicle{Vehicle.java[Vehicle" modifiers="513" timestamp="1740774230493"/>
+    <typeInfo handle="=beanInject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sharma.vehicle{Vehicle.java[Vehicle" modifiers="513" timestamp="1740855320602"/>
+    <typeInfo handle="=beanInject/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.sharma.vehicle{DiscountService.java[DiscountService" modifiers="513" timestamp="1740855718255"/>
+</typeInfoHistroy>

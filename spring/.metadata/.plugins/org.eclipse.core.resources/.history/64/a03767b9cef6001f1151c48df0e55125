@@ -1,0 +1,5 @@
+package com.sharma.vehicle;
+
+public interface Vehicle {
+
+}

@@ -1,0 +1,11 @@
+package com.sharma.component.vehicle;
+
+public class Car implements Vehicle {
+
+	@Override
+	public String getBrand() {
+		// TODO Auto-generated method stub
+		return "Honda";
+	}
+
+}
