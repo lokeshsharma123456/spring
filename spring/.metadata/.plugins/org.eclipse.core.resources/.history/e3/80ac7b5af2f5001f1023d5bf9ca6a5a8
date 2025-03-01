@@ -1,6 +1,0 @@
-package com.sharma.injectingLiterals.discount;
-
-public interface DiscountService {
-	
-	public String getDiscount();
-}

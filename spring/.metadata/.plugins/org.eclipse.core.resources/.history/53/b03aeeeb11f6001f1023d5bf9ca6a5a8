@@ -1,6 +1,0 @@
-package com.sharma.component.vehicle;
-
-public interface Vehicle {
-	
-	private String getBrand();
-}
